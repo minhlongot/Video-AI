@@ -1,0 +1,5 @@
+{
+  "name": "VeoDirector AI",
+  "description": "A professional AI video analysis and creation tool. Upload video, analyze context, re-style scripts, and generate new scenes using Veo 3.",
+  "requestFramePermissions": []
+}
